@@ -2,6 +2,9 @@
 toc: true
 title: "Checkpoint와 BigQuery Buffered Stream으로 Exactly-Once Sink 구현하기"
 ---
+- 관련 PR: https://github.com/apache/seatunnel/pull/10485
+https://github.com/apache/seatunnel/pull/11561
+
 # Checkpoint와 BigQuery Buffered Stream으로 Exactly-Once Sink 구현하기
 
 스트리밍 시스템에서 checkpoint를 지원하면 자연스럽게 exactly-once도 보장될 것이라고 생각하기 쉽다.
