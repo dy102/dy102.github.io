@@ -1,6 +1,6 @@
 ---
 toc: true
-title: "Upsert Session: Handling New Checked Exceptions"
+title: "MySQL Binlog와 PostgreSQL WAL은 어떻게 다를까?"
 ---
 # MySQL Binlog와 PostgreSQL WAL은 어떻게 다를까?
 
